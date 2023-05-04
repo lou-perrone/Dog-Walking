@@ -1,14 +1,12 @@
-/* Importing Google fonts */
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=swap');/* Importing all componentsfile */
 
-/* Importing all components file  */
 @import url(components/avatar.css);
 @import url(components/banner.css);
 @import url(components/button.css);
 @import url(components/container.css);
 @import url(components/card.css);
 
-/* General style rules for fonts and colours */
 body {
 
 	font-size: 23px;
@@ -50,7 +48,6 @@ a{
 
 
 
-/* Responsive design */
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
